@@ -39,15 +39,15 @@ msgstr ""
 
 #: data/com.github.cassidyjames.palette.appdata.xml.in:11
 msgid "Handy features:"
-msgstr ""
+msgstr "Faydalı funksiyalar:"
 
 #: data/com.github.cassidyjames.palette.appdata.xml.in:13
 msgid "Clean and straightforward design"
-msgstr ""
+msgstr "Təmiz və sadə dizayn"
 
 #: data/com.github.cassidyjames.palette.appdata.xml.in:14
 msgid "Click to copy any color to your clipboard"
-msgstr ""
+msgstr "Hərhansi bir rəngi panoya kopyalamaq üçün basın"
 
 #: data/com.github.cassidyjames.palette.appdata.xml.in:15
 msgid "Supports both hex values and Gtk.CSS color constants"
